@@ -1,0 +1,16 @@
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: #ffffff !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+#nav {
+    background-color: #dddddd !important;
+    text-align: left !important;
+    color: #ffffff !important;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
