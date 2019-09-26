@@ -30,6 +30,11 @@ p {
 
 }
 
+.container {
+    background-color: #ffffff !important;
+    max-width: 960px !important;
+}
+
 #nav {
     font-family: Arial, Helvetica, sans-serif !important;
     background-color: #dddddd !important;
