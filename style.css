@@ -1,3 +1,7 @@
+/* CSS file is used to supplement the elements not covered by the Bootstrap CSS*/
+/* Background image is from this site: https://subtlepatterns.com/ */
+/*Use of the "!important" element from Specificity Site: https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity this was shared in Slack by Jim*/
+
 body {
     background-image: url("light_grey.png");
 }
@@ -66,8 +70,8 @@ p {
     border-top-width: 10px;
     position: fixed !important;
     bottom: 0;
-    width: 100% !important;
-    align-content: center !important;
+    text-align: center !important;
+    width: 100%;
 }
 
 .text-muted {
